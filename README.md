@@ -8,8 +8,6 @@ Currently I am...
 
 💻  A Software Developer Contractor @ Soft-Y  
 
-🕵️  An Incident Response Analyst @ Cybersecurity Sensei 
-
 ✈️  Looking for exciting and challenging new opportunities  
 
 📚  Exploring new languages, frameworks, and technologies  
